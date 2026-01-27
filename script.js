@@ -38,11 +38,11 @@ function startExperience() {
   const messages = [
     "Hey Vanshuu my darling … ❤️",
     "You are the most beautiful part of my life ✨",
-    "I know I hurt you 😔",
-    "And I am truly sorry 💔",
+    "I know you love me alot 🥰",
+    "And you also take care my mental health 😵‍💫",
     "Your smile means everything to me 🌸",
     "I never want to lose you 🥺",
-    "Please forgive me, Vanshuu 🙏",
+    "Please forgive me, Baby 🙏",
     "I love you. Always. ♾️❤️"
   ];
 
@@ -123,3 +123,4 @@ document.addEventListener("click", () => {
     window.location.href = "gallery.html";
   }, 1200);
 });
+
